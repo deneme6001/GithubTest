@@ -2,3 +2,5 @@ text text text
 
 
 tekrar commit atıldı.
+
+ücüncü commit denemesi.
