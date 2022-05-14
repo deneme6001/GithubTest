@@ -4,3 +4,7 @@ text text text
 tekrar commit atıldı.
 
 ücüncü commit denemesi.
+
+üçüncü txt dosyası oluşturulmasının ardından bu
+
+dosyadada değişiklik oluşturuldu
